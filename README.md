@@ -1,6 +1,6 @@
 # Nari Dia - Text-to-Speech Application
+![Screenshot 2025-04-22 121753](https://github.com/user-attachments/assets/1fad7fef-8736-4bb5-a94f-993fa2416a8e)
 
-![Nari Dia Logo](https://github.com/SUP3RMASS1VE/Nari-Dia-App/raw/main/assets/logo.png)
 
 ## Overview
 
@@ -41,6 +41,11 @@ Nari Dia is a powerful text-to-speech (TTS) application based on the Dia-1.6B mo
 
 3. Install dependencies:
    ```bash
+   # Windows
+   pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu126
+   # Mac
+   pip3 install torch torchvision torchaudio
+
    pip install -r requirements.txt
    ```
 
@@ -74,7 +79,7 @@ The application uses the Dia model architecture to generate audio codes from tex
 
 ## Repository
 
-The official repository is available at: [https://github.com/SUP3RMASS1VE/Nari-Dia-App](https://github.com/SUP3RMASS1VE/Nari-Dia-App)
+The official repository is available at: [https://github.com/nari-labs/dia](https://github.com/nari-labs/dia)
 
 ## License
 
