@@ -22,7 +22,8 @@ Nari Dia is a powerful text-to-speech (TTS) application based on the Dia-1.6B mo
 - Gradio
 - Other dependencies listed in `requirements.txt`
 
-## Installation
+## Installation  
+Install via [Pinokio](https://pinokio.computer).
 
 1. Clone the repository:
    ```bash
